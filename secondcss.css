@@ -1,0 +1,64 @@
+body{ 
+background-color:#FDFFFF; 
+} 
+
+.top ul{
+list-style-type: none; 
+} 
+
+.top li { 
+display: block; 
+float: right; 
+margin-top: 4%;
+padding:1.3%; 
+font-family:fantasy; 
+font-size: 25px; 
+background-color: #313131; 
+} 
+
+.top li a{ 
+
+color:#FFFFFF; 
+text-decoration: none; 
+padding:6.5% 155px; 
+} 
+
+ul li:hover{
+    opacity: .5;
+}
+.logo img{
+    width:13%;
+    height: 10%;
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+}
+hr{
+    background-color: #313131;
+    width: 100%;
+    height: 1.8%;
+    
+}
+td {
+    position: relative;
+}
+.clone {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.clone > img {
+    width: 100%;
+    height: 100%;
+}
+    
+ 
+    
+    
+}
+.footer{
+    height:25%;
+    background-color:#313131;
+}
+
